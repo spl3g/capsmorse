@@ -1,2 +1,2 @@
 # capsmorse
-Make your keyboard an output device
+Make your keyboard an output device today!..
